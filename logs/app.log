@@ -1,0 +1,61 @@
+[2018-12-05 23:24:11|ERROR|main:linha 22] Houve erro ao efetuar a conexão com o banco. Erro: Failed to establish connection to ('172.20.0.2', 7687) (reason [Errno 113] No route to host)
+[2018-12-05 23:24:11|ERROR|main:linha 39] Houve erro ao ler o arquivo de CSV. Erro: [Errno 2] No such file or directory: '/home/morvanabonin/Desktop/demo-tdc/../user-books.csv'
+[2018-12-05 23:24:29|ERROR|main:linha 22] Houve erro ao efetuar a conexão com o banco. Erro: Failed to establish connection to ('172.20.0.2', 7687) (reason [Errno 113] No route to host)
+[2018-12-05 23:24:29|ERROR|main:linha 39] Houve erro ao ler o arquivo de CSV. Erro: [Errno 2] No such file or directory: '/home/morvanabonin/Desktop/demo-tdc/../user-books.csv'
+[2018-12-05 23:25:23|ERROR|main:linha 22] Houve erro ao efetuar a conexão com o banco. Erro: name 'insert' is not defined
+[2018-12-05 23:25:23|ERROR|main:linha 39] Houve erro ao ler o arquivo de CSV. Erro: [Errno 2] No such file or directory: '/home/morvanabonin/Desktop/demo-tdc/../user-books.csv'
+[2018-12-05 23:25:33|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:25:33|ERROR|main:linha 37] Houve erro ao ler o arquivo de CSV. Erro: [Errno 2] No such file or directory: '/home/morvanabonin/Desktop/demo-tdc/../user-books.csv'
+[2018-12-05 23:26:13|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:26:13|ERROR|main:linha 37] Houve erro ao ler o arquivo de CSV. Erro: 
+[2018-12-05 23:26:31|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:26:31|ERROR|main:linha 37] Houve erro ao ler o arquivo de CSV. Erro: 
+[2018-12-05 23:27:03|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:27:03|ERROR|main:linha 38] Houve erro ao ler o arquivo de CSV. Erro: list index out of range
+[2018-12-05 23:29:26|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:29:26|ERROR|main:linha 38] Houve erro ao ler o arquivo de CSV. Erro: list index out of range
+[2018-12-05 23:29:51|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:29:51|ERROR|main:linha 38] Houve erro ao ler o arquivo de CSV. Erro: list index out of range
+[2018-12-05 23:30:33|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:30:33|ERROR|main:linha 39] Houve erro ao ler o arquivo de CSV. Erro: list index out of range
+[2018-12-05 23:30:47|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:30:47|ERROR|main:linha 39] Houve erro ao ler o arquivo de CSV. Erro: list index out of range
+[2018-12-05 23:31:52|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:31:52|ERROR|main:linha 39] Houve erro ao ler o arquivo de CSV. Erro: list index out of range
+[2018-12-05 23:33:04|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:44:46|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:44:47|INFO|main:linha 47] sucesso ao gravar no banco!
+[2018-12-05 23:45:41|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:45:41|ERROR|main:linha 51] Houve erro ao ler o arquivo de CSV. Erro: 'DirectDriver' object has no attribute 'run'
+[2018-12-05 23:46:13|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:46:13|ERROR|main:linha 51] Houve erro ao ler o arquivo de CSV. Erro: list indices must be integers or slices, not str
+[2018-12-05 23:47:37|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:47:37|ERROR|main:linha 51] Houve erro ao ler o arquivo de CSV. Erro: list indices must be integers or slices, not str
+[2018-12-05 23:48:39|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:48:39|ERROR|main:linha 51] Houve erro ao ler o arquivo de CSV. Erro: list indices must be integers or slices, not str
+[2018-12-05 23:51:53|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:51:53|ERROR|main:linha 52] Houve erro ao ler o arquivo de CSV. Erro: list indices must be integers or slices, not str
+[2018-12-05 23:52:09|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:52:09|ERROR|main:linha 52] Houve erro ao ler o arquivo de CSV. Erro: list indices must be integers or slices, not str
+[2018-12-05 23:52:44|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:52:44|ERROR|main:linha 53] Houve erro ao ler o arquivo de CSV. Erro: list indices must be integers or slices, not str
+[2018-12-05 23:53:15|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:53:15|ERROR|main:linha 52] Houve erro ao ler o arquivo de CSV. Erro: list indices must be integers or slices, not str
+[2018-12-05 23:53:27|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:53:27|ERROR|main:linha 52] Houve erro ao ler o arquivo de CSV. Erro: list indices must be integers or slices, not str
+[2018-12-05 23:54:07|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:54:07|ERROR|main:linha 52] Houve erro ao ler o arquivo de CSV. Erro: list indices must be integers or slices, not str
+[2018-12-05 23:54:28|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:54:28|ERROR|main:linha 52] Houve erro ao ler o arquivo de CSV. Erro: list indices must be integers or slices, not str
+[2018-12-05 23:56:34|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:56:35|ERROR|main:linha 52] Houve erro ao ler o arquivo de CSV. Erro: Invalid input 'R': expected whitespace, comment, COPY, node labels, a property map, ')', MapLiteral or a relationship pattern (line 1, column 17 (offset: 16))
+    "CREATE (Krystal Reiss:User {name:'Krystal Reiss'}),(Terror:Book {genre:'Terror'}), (Ficção:Book {genre:'Ficção'}), (Suspense:Book {genre:'Suspense'}), (Krystal Reiss)-[:LIKE]->(Terror), (Krystal Reiss)-[:LIKE]->(Ficção), (Krystal Reiss)-[:LIKE]->(Suspense)"
+                     ^
+[2018-12-05 23:57:22|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:57:22|ERROR|main:linha 52] Houve erro ao ler o arquivo de CSV. Erro: Invalid input 'A': expected whitespace, [ or '-' (line 1, column 57 (offset: 56))
+    "CREATE (BillyKitchen:User {name:'Billy Kitchen'}),(Auto-Ajuda:Book {genre:'Auto-Ajuda'}), (Drama:Book {genre:'Drama'}), (Aventura:Book {genre:'Aventura'}), (BillyKitchen)-[:LIKE]->(Auto-Ajuda), (BillyKitchen)-[:LIKE]->(Drama), (BillyKitchen)-[:LIKE]->(Aventura)"
+                                                             ^
+[2018-12-05 23:58:17|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-05 23:58:17|INFO|main:linha 48] sucesso ao gravar no banco!
+[2018-12-06 00:07:57|INFO|main:linha 18] Conexão efetuada com sucesso!
+[2018-12-06 00:07:57|INFO|main:linha 48] sucesso ao gravar no banco!

@@ -1,0 +1,43 @@
+# Temos então alguns genêros de livros
+Terror
+Romance
+Ficção
+Drama
+Biografia
+Suspense
+Auto-Ajuda
+Aventura
+
+A versão usada para essa demo do Neo4j é a 3.5 e do Python 3.6
+
+-- Comandos para execução
+
+delete with relationship 
+MATCH ()-[l:LIKES]-() 
+DELETE l
+
+delete all
+MATCH (n) DELETE n
+
+# query
+CREATE (KrystalReiss:User {name:'Krystal Reiss'}),]
+(Terror:Book {genre:'Terror'}),
+(Ficção:Book {genre:'Ficção'}),
+(Suspense:Book {name:'Suspense'}),
+(KrystalReiss)-[:LIKES]->(Terror), 
+(KrystalReiss)-[:LIKES]->(Ficção), 
+(KrystalReiss)-[:LIKES]->(Suspense)
+
+# queries de relacionamento
+MATCH (u:User)-[:LIKES]->(b:Book {genre: 'Terror'}) RETURN u,b
+
+WITH ['Drama', 'AutoAjuda'] as books
+MATCH (u:User)-[:LIKES]->(b:Book)
+WHERE b.genre in books
+RETURN u
+
+MATCH p =(u:User)-[LIKES]->(b:Book)
+WHERE b.genre IN ['Terror', 'Ficção']
+RETURN p
+
+MATCH (Drama:Book { genre: 'Drama' }),(AutoAjuda:Book { genre: 'AutoAjuda' })<-[:LIKES]-(u:User) RETURN u
